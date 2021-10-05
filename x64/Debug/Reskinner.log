@@ -1,0 +1,52 @@
+﻿  cl : warning della riga di comando D9025 : override di '/W3' con '/W4'
+  Main.cpp
+C:\Users\franc\Desktop\Reskinner\Libraries\include\glm\detail\type_quat.hpp(48,30): warning C4201: utilizzata estensione non standard: struct/union senza nome
+C:\Users\franc\Desktop\Reskinner\Libraries\include\glm\detail\type_quat.hpp(133): message : vedere il riferimento all'istanza 'glm::qua<T,Q>' di modello classe di cui è in corso la compilazione
+C:\Users\franc\Desktop\Reskinner\Libraries\include\reskinner\Renderer.h(20,10): warning C4227: utilizzato anacronismo: i qualificatori di riferimenti vengono ignorati
+C:\Users\franc\Desktop\Reskinner\Libraries\include\reskinner\Renderer.h(36,35): warning C4227: utilizzato anacronismo: i qualificatori di riferimenti vengono ignorati
+C:\Users\franc\Desktop\Reskinner\src\Main.cpp(77,44): warning C4100: 'window': parametro formale senza riferimenti
+C:\Users\franc\Desktop\Reskinner\src\Main.cpp(90,23): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\franc\Desktop\Reskinner\src\Main.cpp(91,23): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\franc\Desktop\Reskinner\src\Main.cpp(96,33): warning C4244: '=': conversione da 'double' a 'T'. Possibile perdita di dati.
+          with
+          [
+              T=float
+          ]
+C:\Users\franc\Desktop\Reskinner\src\Main.cpp(97,33): warning C4244: '=': conversione da 'double' a 'T'. Possibile perdita di dati.
+          with
+          [
+              T=float
+          ]
+C:\Users\franc\Desktop\Reskinner\src\Main.cpp(87,33): warning C4100: 'window': parametro formale senza riferimenti
+C:\Users\franc\Desktop\Reskinner\src\Main.cpp(105,39): warning C4244: 'argomento': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\franc\Desktop\Reskinner\src\Main.cpp(103,49): warning C4100: 'xoffset': parametro formale senza riferimenti
+C:\Users\franc\Desktop\Reskinner\src\Main.cpp(103,34): warning C4100: 'window': parametro formale senza riferimenti
+  Renderer.cpp
+C:\Users\franc\Desktop\Reskinner\Libraries\include\glm\detail\type_quat.hpp(48,30): warning C4201: utilizzata estensione non standard: struct/union senza nome
+C:\Users\franc\Desktop\Reskinner\Libraries\include\glm\detail\type_quat.hpp(133): message : vedere il riferimento all'istanza 'glm::qua<T,Q>' di modello classe di cui è in corso la compilazione
+C:\Users\franc\Desktop\Reskinner\Libraries\include\reskinner\Renderer.h(20,10): warning C4227: utilizzato anacronismo: i qualificatori di riferimenti vengono ignorati
+C:\Users\franc\Desktop\Reskinner\Libraries\include\reskinner\Renderer.h(36,35): warning C4227: utilizzato anacronismo: i qualificatori di riferimenti vengono ignorati
+C:\Users\franc\Desktop\Reskinner\src\Renderer.cpp(3,70): warning C4227: utilizzato anacronismo: i qualificatori di riferimenti vengono ignorati
+C:\Users\franc\Desktop\Reskinner\src\Renderer.cpp(30,54): warning C4458: se si dichiara 'shaders', il membro della classe verrà nascosto
+C:\Users\franc\Desktop\Reskinner\Libraries\include\reskinner\Renderer.h(34,22): message : vedere la dichiarazione di 'Renderer::shaders'
+C:\Users\franc\Desktop\Reskinner\src\Renderer.cpp(37,75): warning C4100: 'lines': parametro formale senza riferimenti
+C:\Users\franc\Desktop\Reskinner\src\Renderer.cpp(37,57): warning C4100: 'faces': parametro formale senza riferimenti
+C:\Users\franc\Desktop\Reskinner\src\Renderer.cpp(96,82): warning C4267: 'argomento': conversione da 'size_t' a 'GLsizei'. Possibile perdita di dati.
+C:\Users\franc\Desktop\Reskinner\src\Renderer.cpp(107,82): warning C4267: 'argomento': conversione da 'size_t' a 'GLsizei'. Possibile perdita di dati.
+  StatusManager.cpp
+C:\Users\franc\Desktop\Reskinner\Libraries\include\glm\detail\type_quat.hpp(48,30): warning C4201: utilizzata estensione non standard: struct/union senza nome
+C:\Users\franc\Desktop\Reskinner\Libraries\include\glm\detail\type_quat.hpp(133): message : vedere il riferimento all'istanza 'glm::qua<T,Q>' di modello classe di cui è in corso la compilazione
+C:\Users\franc\Desktop\Reskinner\src\StatusManager.cpp(15,25): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\franc\Desktop\Reskinner\src\StatusManager.cpp(40,26): warning C4244: 'argomento': conversione da 'float' a 'GLsizei'. Possibile perdita di dati.
+C:\Users\franc\Desktop\Reskinner\src\StatusManager.cpp(40,19): warning C4244: 'argomento': conversione da 'float' a 'GLsizei'. Possibile perdita di dati.
+C:\Users\franc\Desktop\Reskinner\src\StatusManager.cpp(108,41): warning C4244: 'argomento': conversione da 'float' a 'int'. Possibile perdita di dati.
+C:\Users\franc\Desktop\Reskinner\src\StatusManager.cpp(108,28): warning C4244: 'argomento': conversione da 'float' a 'int'. Possibile perdita di dati.
+  Generazione del codice in corso...
+  LINK : dal precedente collegamento sono stati modificati 0 nuovi moduli e 3 moduli esistenti su 81
+  Inizio passaggio 2
+       StatusManager.obj
+       Renderer.obj
+       Main.obj
+       MSVCRTD.lib(loadcfg.obj)
+  Fine passaggio 2
+  Reskinner.vcxproj -> C:\Users\franc\Desktop\Reskinner\x64\Debug\Reskinner.exe
